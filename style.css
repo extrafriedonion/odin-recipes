@@ -1,0 +1,31 @@
+body {
+    width: 700px;
+    margin: auto;
+    box-sizing: border-box;
+}
+.card {
+    padding: 20px;
+    margin: 20px;
+    background-color: grey;
+}
+.title {
+    background-color: beige;
+    font-weight: bold;
+    text-align: center;
+    padding: 16px;
+}
+.directory {
+    font-weight:lighter;
+}
+.homeButton {
+    padding: 16px;
+    border: 30px;
+    border-color: darkgrey;
+    background-color: grey;
+    margin-top: 30px;
+    display: inline-block;
+}
+homeButton:hover {
+    background-color: darkgrey;
+    border-color: black;
+}
