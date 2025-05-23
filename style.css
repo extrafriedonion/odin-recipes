@@ -7,17 +7,21 @@ body {
     padding: 20px;
     margin: 20px;
     background-color: grey;
+    border-radius: 10px;
 }
 .title {
     background-color: beige;
     font-weight: bold;
     text-align: center;
     padding: 16px;
+    border-radius: 10px;
+    font-family: Helvetica, Arial, sans-serif;
 }
 .directory {
     font-weight:lighter;
     text-decoration: none;
     color: white;
+    font-size: x-large;
 }
 .homeButton {
     padding: 15px;
